@@ -18,8 +18,10 @@
 
 - 🕵️ I’m looking to collaborate with other **Developers.**
 
-- 📫 Contact Me on Whatsapp **[Rizxyu](https://wa.me/6282328303332)**
-- 📫 My Bot Whatsapp **[Rain XyZ](https://wa.me/62823283033321)**
+#Contact Me
+<a href="https://wa.me/6282328303332" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+# My Bot Whatsapp
+<a href="https://wa.me/62823283033321" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
 
 - 🆓 Don't Forget To **[Follow Me on Github](https://github.com/Rizxyu)**
 
