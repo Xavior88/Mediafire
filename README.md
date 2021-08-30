@@ -1,6 +1,7 @@
 # Hi I'm Rizky&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
-![logo](https://user-images.githubusercontent.com/88314302/131332636-2639910c-d015-4fd5-807d-d5a677a53626.jpg)
+![logo](https://user-images.githubusercontent.com/88314302/131332636-2639910c-d015-4fd5-807d-d5a677a53626.jpg)![IMG-20210830-WA0202](https://user-images.githubusercontent.com/88314302/131342173-5c26b853-ad41-4876-8360-79034d814eca.jpg)
+
 
 - 🧑‍🏫 I’m currently working **very hard.**
 
