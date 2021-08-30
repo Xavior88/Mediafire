@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizxyu&show_icons=true&theme=nightowl" alt="Manish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizxyu&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Rizxyu"/></p></a><br> 
+
+# please Follow me😫
+![pepe-why-pepe-the-frog](https://user-images.githubusercontent.com/88314302/131341596-4ecc98a4-6101-4373-bcb2-6666a98935c4.gif)
