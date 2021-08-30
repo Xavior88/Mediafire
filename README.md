@@ -13,7 +13,7 @@
 
 - 🆓 Don't Forget To **[Follow Me on Github](https://github.com/Rizxyu)**
 
-<p align="center"> <a href="Manish"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=manishkumar1601&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
+<p align="center"> <a href="Manish"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Rizxyu&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
 
 
 <div align="center">
