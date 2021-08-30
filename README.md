@@ -1,8 +1,6 @@
 # Hi I'm Rizky&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
-<p align="center">
-<img src="https://github.com/Rizxyu/tes/issues/1#issue-982691545&v=4" width="128" height="128"/>
-</p>
+![logo](https://user-images.githubusercontent.com/88314302/131332636-2639910c-d015-4fd5-807d-d5a677a53626.jpg)
 
 - 🧑‍🏫 I’m currently working **very hard.**
 
