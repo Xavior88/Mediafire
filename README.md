@@ -18,16 +18,14 @@
 
 - 🕵️ I’m looking to collaborate with other **Developers.**
 
-#Contact Me
+# Contact Me
 <a href="https://wa.me/6282328303332" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 # My Bot Whatsapp
 <a href="https://wa.me/62823283033321" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
 
-- 🆓 Don't Forget To **[Follow Me on Github](https://github.com/Rizxyu)**
-
 # I'm developing  👨‍💻
-- repo **[ Wabot-aq ](https://github.com/Nurutomo/wabot-aq-master)**
-- repo2 **[violet](https://github.com/unx21/violet)**
+- repo🎏 **[ Wabot-aq ](https://github.com/Nurutomo/wabot-aq-master)**
+- repo2🎏 **[violet](https://github.com/unx21/violet)**
 
 # please Follow me😫
 ![pepe-why-pepe-the-frog](https://user-images.githubusercontent.com/88314302/131341596-4ecc98a4-6101-4373-bcb2-6666a98935c4.gif)
