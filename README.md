@@ -12,8 +12,8 @@
 * 👾Bot WhatsApp <a href="https://wa.me/62823283033321" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
 
 # I'm developing  👨‍💻
-• 🏮 **[ Wabot-aq ](https://github.com/Nurutomo/wabot-aq)**
-• 🏮 **[violet](https://github.com/unx21/violet)**
+* 🏮 **[ Wabot-aq ](https://github.com/Nurutomo/wabot-aq)**
+* 🏮 **[violet](https://github.com/unx21/violet)**
 
 # Oh yes, here I learned how to code node js with python😆
 
