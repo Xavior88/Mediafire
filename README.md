@@ -8,11 +8,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizxyu&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Rizxyu"/></p></a><br> 
 
 # Contact Me & My bot Whatsapp
-> my wa👤 <a href="https://wa.me/6282328303332" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
-> 👾Bot WhatsApp <a href="https://wa.me/62823283033321" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
+* my wa👤 <a href="https://wa.me/6282328303332" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+* 👾Bot WhatsApp <a href="https://wa.me/62823283033321" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
 
 # I'm developing  👨‍💻
-• 🏮 **[ Wabot-aq ](https://github.com/Nurutomo/wabot-aq-master)**
+• 🏮 **[ Wabot-aq ](https://github.com/Nurutomo/wabot-aq)**
 • 🏮 **[violet](https://github.com/unx21/violet)**
 
 # Oh yes, here I learned how to code node js with python😆
