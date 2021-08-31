@@ -8,6 +8,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizxyu&show_icons=true&theme=nightowl" alt="Rizxyu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizxyu&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Rizxyu"/></p></a><br> 
 
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
 # Contact Me & My bot Whatsapp
 * my wa👤 <a href="https://wa.me/6282328303332" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 * 👾Bot WhatsApp <a href="https://wa.me/62823283033321" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
