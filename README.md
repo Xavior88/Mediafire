@@ -1,7 +1,6 @@
 # Hi I'm Rizky&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
-- IM from Indonesian🇮🇩
 
-![logo](https://user-images.githubusercontent.com/88314302/131332636-2639910c-d015-4fd5-807d-d5a677a53626.jpg)
+![anime-fight](https://user-images.githubusercontent.com/88314302/131484973-81a2c83b-b1e2-4a9d-8b13-67a90c1526ae.gif)
 
 <p align="center"> <a href="Rizxyu"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Rizxyu&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
 <div align="center">
