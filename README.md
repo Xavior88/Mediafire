@@ -23,18 +23,4 @@
 # I'm developing  👨‍💻
 * 🏮 **[`Rain Bot`](https://github.com/Rizxyu/Bot-Rain)**
 * 🏮 **[` Wabot-aq `](https://github.com/Nurutomo/wabot-aq)**
-* 🏮 **[` violet `](https://github.com/unx21/violet)**
-
-# Oh yes, here I learned how to code node js with python😆
-
-# i have youtube too :trollface:
-<p align="center">
-    * Youtube stats badges
-    <br />
-    <br />
-    <a href="https://youtube.com/channel/UC3UAP0ikH_3_ICRP_3Ar-Lw?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://youtube.com/channel/UC3UAP0ikH_3_ICRP_3Ar-Lw">
-      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
-   </p>
-</p>
+* 🏮 **[` violet `](https://github.com/unx21/violet)
