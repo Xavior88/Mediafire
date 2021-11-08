@@ -1,4 +1,9 @@
-# Hi I'm Rizky&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+# Hi I'm Rizky
+
+<p align="center">
+  <a href="https://wa.me/6282328303332"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 <p align="center"> <a href="Rizxyu"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Rizxyu&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizxyu&show_icons=true&theme=nightowl" alt="Rizxyu" /></p>
