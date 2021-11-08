@@ -6,6 +6,8 @@
 
 <p align="center"> <a href="Rizxyu"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Rizxyu&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
 <div align="center">
+
+**My github Stats**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizxyu&show_icons=true&theme=nightowl" alt="Rizxyu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizxyu&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Rizxyu"/></p></a><br> 
 
