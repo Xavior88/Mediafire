@@ -1,6 +1,8 @@
 # Hi I'm Rizky
 
-https://github.com/Rizxyu/Rizxyu/raw/main/IMG-20211114-WA0123.jpg
+<p align="center">
+  <a href="https://wa.me/6282328303332"><img src="https://github.com/Rizxyu/Rizxyu/raw/main/IMG-20211114-WA0123.jpg" alt="Velgrynd"></a>
+</p>
 
 <p align="center">
   <a href="https://wa.me/6282328303332"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
