@@ -34,8 +34,4 @@ Bukan Mastah😁 cuman newbie | Kalo mau nanya soal kode bisa chat saya
 
 <h6 class= "card-text">Klik Audio dibawah:v</h6>
 <audio src="../audio/audio.mp3" controls autoplay muted ></audio>
-          <footer class="footer">
-
-            <div class="container-fluid clearfix">
-              <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © Rizxyu 2021</span>
-            
+          
