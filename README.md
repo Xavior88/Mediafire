@@ -1,12 +1,12 @@
 # Hi I'm Rizxyu
 
 <p align="center">
-  <a href="https://wa.me/6282328303332"><img src="https://github.com/Rizxyu/Rizxyu/raw/main/IMG-20211114-WA0123.jpg" alt="Velgrynd"></a>
+  <a href="https://github.com/Rizxyu"><img src="https://github.com/Rizxyu/Rizxyu/raw/main/IMG-20211114-WA0123.jpg" alt="Velgrynd"></a>
 </p>
 
 <p align="center">
   <a href="https://wa.me/6282328303332"><img src="https://img.shields.io/badge/Contact Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+</p> <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-Rizxyu-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
 
 <p align="center"> <a href="Rizxyu"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Rizxyu&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
 <div align="center">
@@ -31,7 +31,3 @@ Bukan Mastah😁 cuman newbie | Kalo mau nanya soal kode bisa chat saya
 
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGimzlbs6ll9h56i-cSP_oi0pZR0nO7HsOQ&usqp=CAU"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRakJUHSahsemNUuf9dYsmKhuEU6PK8z8rPgA&usqp=CAU"></code>
-
-<h6 class= "card-text">Klik Audio dibawah:v</h6>
-<audio src="AUD-20211117-WA0105.m4a" controls autoplay muted ></audio>
-          
