@@ -4,8 +4,8 @@
   <a href="https://github.com/Rizxyu"><img src="https://github.com/Rizxyu/Rizxyu/raw/main/IMG-20211114-WA0123.jpg" alt="Velgrynd"></a>
 </p>
 
-<a href="https://wa.me/6282328303332"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br><a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-Rizxyu-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
-
+<a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-Rizxyu-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
+<a href="https://wa.me/6282328303332"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
 <p align="center"> <a href="Rizxyu"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Rizxyu&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
 <div align="center">
 
