@@ -14,8 +14,7 @@
 ------
 
 
-
-***My github Stats***
+**Tes**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizxyu&show_icons=true&theme=nightowl" alt="Rizxyu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizxyu&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Rizxyu"/></p></a><br> 
 
