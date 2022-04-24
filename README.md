@@ -1,4 +1,4 @@
-<a href = "https://github.com/Rizxyu"><img src = "https://cardivo.vercel.app/api?name=SXZY&description=Haruno,%20Bot%20WhatsApp%20multi%20device.%20Created%20by%20Nurutomo,%20BochilGaming,%20dan%20FadliDarmawan.&image=https://telegra.ph/file/196b5f6f24ccdc6805021.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=FadliDarmawan&pattern=topography&colorPattern=%23eaeaea"/><a>
+<a href = "https://github.com/Rizxyu"><img src = "https://cardivo.vercel.app/api?name=SXZY&description=Welcome%20To%20In%20My%20Github😁.&image=https://telegra.ph/file/196b5f6f24ccdc6805021.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Rizxyu&pattern=topography&colorPattern=%23eaeaea"/><a>
 
 
 <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=rizxyu&label=Profile%20views&color=0e75b6&style=flat"
