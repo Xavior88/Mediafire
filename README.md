@@ -3,12 +3,10 @@
     alt="rizxyu" /> 
   </p>
 
-<br>
-
 - 🌱 I’m currently learning Web Development and other programming languages.
 
-- 🌺 rarely coding because busy
-<br>
+- 🌺 
+- 🎋 
 
 <h3 align="left">Contact:</h3>
 <p align="left">
