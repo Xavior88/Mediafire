@@ -13,7 +13,7 @@
   <a href="https://www.facebook.com/profile.php?id=100064516381260" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="load" height="30" width="40" /></a> 
-  <a href="https://instagram.com/rizxyux" target="blank"><img align="center"
+  <a href="https://instagram.com/XaviorOfc" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="load" height="30" width="40" /></a> 
  <a href="https://twitter.com/rizkyadin7" target="blank"><img align="center"
@@ -57,7 +57,7 @@
     alt="arzxh" /></p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizxyu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xavior88&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
